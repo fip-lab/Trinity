@@ -53,6 +53,8 @@ UCF51 original data: see https://github.com/GeWu-Lab/cross-modal-distillation
 
 KS original data: see https://github.com/MengShen0709/bmmal
 
+AVE original data: see https://sites.google.com/view/audiovisualresearch
+
 our prepared data and checkpoint download link: https://drive.google.com/drive/folders/1XLJaWM2ftpK_xCucExRS6Xy4N4GKyJdd?usp=drive_link
 
 ## Training
