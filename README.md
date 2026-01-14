@@ -8,7 +8,7 @@ The architecture of TRINITY. From left to right, TRINITY comprises four modules:
 
 </div>
 
-## Github anonymous url:
+## Github anonymous url: https://anonymous.4open.science/r/Trinity-27F4
 
 
 ## Table of Contents
